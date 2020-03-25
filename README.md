@@ -1,2 +1,5 @@
-# github-pages
-Berlatih membuat dan menggunakan GitHub Pages
+# Welcome!
+
+Page ini digunakan untuk berlatih membuat page menggunakan GitHub
+
+### Selamat belajar!
